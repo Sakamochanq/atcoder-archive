@@ -12,9 +12,10 @@
 
 ### atcoder-archive
 
-This is the repository where the code AC'd by [Atcoder](https://atcoder.jp/) is stored.  
-for my own records and I do the commits manually.  
-I will eventually build an automated environment.
+This saves the code submitted by Sakamochanq at [Atcoder](https://atcoder.jp/)  
+It may contain incorrect code other than AC.  
+for my review record and I commit manually.  
+Eventually, I would like to build an environment for automatic commits.
 
 ### install
 
