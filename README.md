@@ -1,6 +1,4 @@
 <div align="center">
-    <hr>
-    <br>
     <a href="#">
         <img src="./assets/atcoder-archive.png" width="180px">
     </a>
